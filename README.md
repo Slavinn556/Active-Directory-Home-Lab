@@ -18,7 +18,7 @@
 <h2>Active Directory Walkthrough:</h2>
 
 <p align="center">
-![image](Screenshot 2024-09-06 105744.png)
+
 
 <!--
  ```diff

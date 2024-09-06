@@ -18,7 +18,7 @@
 <h2>Active Directory Walkthrough:</h2>
 
 <p align="center">
-![image alt](https://github.com/Slavinn556/Active-Directory-Home-Lab/blob/main/Screenshot%202024-09-06%20105744.png?raw=true)
+![image alt]()
 
 <!--
  ```diff

@@ -18,7 +18,7 @@
 <h2>Active Directory Walkthrough:</h2>
 
 <p align="center">
-
+![image alt]
 
 <!--
  ```diff

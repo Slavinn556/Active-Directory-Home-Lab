@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab</h1>
  
 <h2>Description</h2>
-In this lab, I created a virtualized environment for deploying and managing an Active Directory Domain. Utilizing Oracle VirtualBox, I set up two virtual machines: one running Windows Server 2019 as the Domain Controller (DC), and the other running Windows 10 as a domain client
+In this project, I built a virtualized Active Directory environment using Oracle VirtualBox, with Windows Server 2019 as the Domain Controller (DC) and Windows 10 as the client. The Domain Controller was configured with Active Directory Domain Services (AD DS) for centralized user and group management, as well as a DHCP server for internal IP addressing. Users were created and managed within Active Directory, with the Windows 10 client successfully joining the domain and authenticating domain users.
 <br />
 
 

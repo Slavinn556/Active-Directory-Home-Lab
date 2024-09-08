@@ -17,7 +17,7 @@ In this project, I built a virtualized Active Directory environment using Oracle
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Create Virtual Environments: <br/>
 <img src="https://github.com/Slavinn556/Active-Directory-Home-Lab/blob/main/Screenshot%202024-09-06%20105744.png?raw=true" height="80%" width="80%"
 <br />
 <br />

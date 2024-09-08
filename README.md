@@ -25,8 +25,8 @@ Install Active Directory Domain Services:  <br/>
 <img src="https://github.com/Slavinn556/Active-Directory-Home-Lab/blob/main/Screenshot%20(1).png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add Users: <br/>
+<img src="https://github.com/Slavinn556/Active-Directory-Home-Lab/blob/main/Screenshot%20(4).png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
